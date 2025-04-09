@@ -29,7 +29,7 @@ namespace task4
 
                 if (!check1)
                 {
-                    Console.WriteLine("Задається ви ввели щось не те. ");
+                    Console.WriteLine("Здається ви ввели щось не те. ");
                 }
                 Console.WriteLine();
                 if (line1.Length != 18)
